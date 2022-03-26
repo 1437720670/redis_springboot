@@ -24,6 +24,7 @@ public class RedisTestController {
         System.out.println("laldas - hot-fix");
         System.out.println("main2 ");
         System.out.println("hot fix ");
+        System.out.println("main  ");
         return name;
     }
 }
