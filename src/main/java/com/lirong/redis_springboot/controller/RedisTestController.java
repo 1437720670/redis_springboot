@@ -21,6 +21,7 @@ public class RedisTestController {
         String name = (String) redisTemplate.opsForValue().get("name");
         System.out.println("laldas");
         System.out.println("laldas");
+        System.out.println("laldas - hot-fix");
         return name;
     }
 }
