@@ -25,7 +25,7 @@ public class RedisTestController {
         System.out.println("main2 ");
         System.out.println("hot fix ");
         System.out.println("main  ");
-        System.out.println("pull test ");
+        System.out.println("pull312 test ");
         return name;
     }
 }
