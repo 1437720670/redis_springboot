@@ -20,6 +20,7 @@ public class RedisTestController {
         redisTemplate.opsForValue().set("name","lucy");
         String name = (String) redisTemplate.opsForValue().get("name");
         System.out.println("laldas");
+        System.out.println("laldas");
         return name;
     }
 }
